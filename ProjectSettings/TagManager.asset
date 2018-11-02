@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - GameBoundry
+  - PumpkinGenerator
+  - Pumpkin
+  - Arrow
+  - Grass
+  - Ground
   layers:
   - Default
   - TransparentFX
